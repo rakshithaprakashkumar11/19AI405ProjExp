@@ -1,6 +1,6 @@
 # Implement a Sudoku Solver From Scratch
-## NAME:N.NAVYA SREE
-## REG.NO:212223040138
+## NAME:P.RAKSHITHA
+## REG.NO:212223220083
 ## AIM:
 To implement a Sudoku solver using the backtracking algorithm to find the solution for the given Sudoku puzzle.
 
